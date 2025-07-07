@@ -1,8 +1,5 @@
-/* Resume Website Starter (React + Vite + Tailwind CSS) */
-
-/* File: src/App.jsx */
 import Header from "./components/Header";
-import About from "./components/About";
+import About from "./components/AboutMe";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Footer from "./components/Footer";
