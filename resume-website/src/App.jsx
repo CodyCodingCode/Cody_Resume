@@ -2,8 +2,8 @@
 
 /* File: src/App.jsx */
 import Header from "./components/Header";
-import About from "./components/about";
-import Experience from "./components/experience";
+import About from "./components/About";
+import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Footer from "./components/Footer";
 
