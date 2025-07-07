@@ -1,5 +1,8 @@
+import SectionWrapper from "./SectionWrapper";
+
 function Experience() {
   return (
+    <SectionWrapper>
     <section>
       <h2 className="text-xl font-semibold mb-2">Experience</h2>
       <ul className="list-disc ml-5 space-y-2">
@@ -13,6 +16,7 @@ function Experience() {
         </li>
       </ul>
     </section>
+    </SectionWrapper>
   );
 }
 
