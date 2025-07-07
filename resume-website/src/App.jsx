@@ -1,5 +1,5 @@
 import Header from "./components/Header";
-import About from "./components/About";
+// import About from "./components/About";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Footer from "./components/Footer";
@@ -9,7 +9,7 @@ function App() {
     <div className="font-sans text-gray-800 bg-white dark:bg-gray-900 dark:text-white min-h-screen scroll-smooth">
       <Header />
       <main className="px-6 md:px-16 py-8 space-y-32">
-        <About />
+        {/* <About /> */}
         <Experience />
         <Projects />
       </main>
